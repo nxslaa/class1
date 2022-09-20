@@ -1,0 +1,8 @@
+
+a[target="_self"]{
+color: pink;
+}
+
+a[target="_blank"]{
+    color: yellow;
+}
